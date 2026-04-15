@@ -9,7 +9,7 @@ Developer focused on practical software projects, backend, fullstack development
 - Focus on clear structure, maintainable code, and practical implementation
 
 ## Projects
-This profile contains selected portfolio projects that demonstrate different types of application development:
+This profile contains portfolio projects that demonstrate different types of application development:
 - backend services
 - fullstack applications
 - dashboards and admin interfaces
