@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Pavel
 
-<!--
-**PaulSavanna/PaulSavanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack developer focused on backend-heavy web products, integrations, and practical internal tools.
 
-Here are some ideas to get you started:
+## What I build
+- Backend applications with Python and FastAPI
+- Frontend dashboards and admin panels
+- Integration-focused services and workflow tools
+- Clean portfolio projects with clear architecture and documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+- **Landing Brief Builder** — local-first app for creating and revising landing page briefs
+- **OAuth Integration Dashboard** — dashboard for managing external integrations
+- **CPA Postback Processor** — backend-oriented postback processing flow
+- **Rule-Based Brief Task Board** — workflow and task management project
+
+## Tech stack
+Python, FastAPI, JavaScript, React, HTML, CSS, Docker, REST APIs, testing
+
+## Contact
+- Email: n60137183@gmail.com
+- Telegram: https://t.me/IIIIII84
