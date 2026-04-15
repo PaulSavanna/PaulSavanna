@@ -10,12 +10,6 @@ Developer focused on practical software projects, backend, fullstack development
 
 ## Projects
 This profile highlights repositories across backend, fullstack, integrations, dashboards, and workflow-oriented systems.
-- backend services
-- fullstack applications
-- dashboards and admin interfaces
-- integration-oriented tools
-- automation and workflow-related systems
-
 ## Tech stack
 Python, FastAPI, JavaScript, React, HTML, CSS, Docker, REST APIs, testing
 
