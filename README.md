@@ -1,22 +1,23 @@
-# Hi, I'm Pavel
+# Hi, I'm Nikita
 
-Fullstack developer focused on backend-heavy web products, integrations, and practical internal tools.
+Developer focused on practical software projects, backend, fullstack development, integrations, and automation.
 
-## What I build
-- Backend applications with Python and FastAPI
-- Frontend dashboards and admin panels
-- Integration-focused services and workflow tools
-- Clean portfolio projects with clear architecture and documentation
+## What I do
+- Build backend and fullstack applications
+- Work with APIs, integrations, and data flows
+- Create tools, dashboards, and service-oriented applications
+- Focus on clear structure, maintainable code, and practical implementation
 
-## Selected projects
-- **Landing Brief Builder** — local-first app for creating and revising landing page briefs
-- **OAuth Integration Dashboard** — dashboard for managing external integrations
-- **CPA Postback Processor** — backend-oriented postback processing flow
-- **Rule-Based Brief Task Board** — workflow and task management project
+## Projects
+This profile contains selected portfolio projects that demonstrate different types of application development:
+- backend services
+- fullstack applications
+- dashboards and admin interfaces
+- integration-oriented tools
+- automation and workflow-related systems
 
 ## Tech stack
 Python, FastAPI, JavaScript, React, HTML, CSS, Docker, REST APIs, testing
 
 ## Contact
-- Email: n60137183@gmail.com
 - Telegram: https://t.me/IIIIII84
